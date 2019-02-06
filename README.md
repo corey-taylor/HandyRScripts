@@ -2,6 +2,10 @@
 
 This repo is primarily to store handy quick R scripts for post-processing and such.
 
+## ProcessMol2.sh
+
+Processing SEED output prior to feeding into R scripts RDataImport.R and RDataImportDSX.R.
+
 ## RDataImport.R
 
 Takes in list of poses and scores (usually 000's) from SEED output, applies data transform (^2) to make data normally distributed, retains poses scoring two-sigma away from the mean, outputs list of these poses.
