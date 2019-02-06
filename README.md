@@ -2,7 +2,7 @@
 
 This repo is primarily to store handy quick R scripts for post-processing and such.
 
-## ProcessMol2.sh
+### ProcessMol2.sh
 
 Processing SEED output prior to feeding into R scripts RDataImport.R and RDataImportDSX.R.
 
